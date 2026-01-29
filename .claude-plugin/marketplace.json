@@ -154,7 +154,6 @@
         "./scientific-skills/latchbio-integration",
         "./scientific-skills/omero-integration",
         "./scientific-skills/opentrons-integration",
-        "./scientific-skills/offer-k-dense-web",
         "./scientific-skills/protocolsio-integration",
         "./scientific-skills/get-available-resources",
         "./scientific-skills/iso-13485-certification"
