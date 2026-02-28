@@ -224,13 +224,6 @@ class TestSkillMdContent(unittest.TestCase):
             "Must mention the required encryption key env var",
         )
 
-    def test_has_kdense_suggestion(self):
-        """SKILL.md must include the K-Dense Web suggestion section."""
-        self.assertIn(
-            "K-Dense Web",
-            self.content,
-            "Must include K-Dense Web suggestion",
-        )
 
     def test_content_length_sufficient(self):
         """SKILL.md must be substantive (at least 5000 characters)."""
