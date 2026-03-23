@@ -1,5 +1,7 @@
 # Claude Scientific Skills
 
+> **New: [K-Dense BYOK](https://github.com/K-Dense-AI/k-dense-byok)** — A free, open-source AI co-scientist that runs on your desktop, powered by Claude Scientific Skills. Bring your own API keys, pick from 40+ models, and get a full research workspace with web search, file handling, 250+ scientific databases, and access to all 170+ skills in this repo. Your data stays on your computer, and you can optionally scale to cloud compute via [Modal](https://modal.com/) for heavy workloads. [Get started here.](https://github.com/K-Dense-AI/k-dense-byok)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 [![Skills](https://img.shields.io/badge/Skills-170-brightgreen.svg)](#whats-included)
 [![Databases](https://img.shields.io/badge/Databases-250%2B-orange.svg)](#whats-included)
@@ -27,6 +29,7 @@ These skills enable your AI agent to seamlessly work with specialized scientific
 - 🌌 Physics & Astronomy - Astronomical data analysis, coordinate transformations, cosmological calculations, symbolic mathematics, physics computations
 - ⚙️ Engineering & Simulation - Discrete-event simulation, multi-objective optimization, metabolic engineering, systems modeling, process optimization
 - 📊 Data Analysis & Visualization - Statistical analysis, network analysis, time series, publication-quality figures, large-scale data processing, EDA
+- 🌍 Geospatial Science & Remote Sensing - Satellite imagery processing, GIS analysis, spatial statistics, terrain analysis, machine learning for Earth observation
 - 🧪 Laboratory Automation - Liquid handling protocols, lab equipment control, workflow automation, LIMS integration
 - 📚 Scientific Communication - Literature review, peer review, scientific writing, document processing, posters, slides, schematics, citation management
 - 🔬 Multi-omics & Systems Biology - Multi-modal data integration, pathway analysis, network biology, systems-level insights

@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude scientific skills from K-Dense Inc",
-    "version": "2.27.0"
+    "version": "2.29.0"
   },
   "plugins": [
     {
@@ -186,7 +186,8 @@
         "./scientific-skills/edgartools",
         "./scientific-skills/usfiscaldata",
         "./scientific-skills/hedgefundmonitor",
-        "./scientific-skills/alpha-vantage"
+        "./scientific-skills/alpha-vantage",
+        "./scientific-skills/planning-with-files"
       ]
     }
   ]
