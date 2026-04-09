@@ -370,5 +370,3 @@ For complete compatibility guide, see [references/octave-compatibility.md](refer
 - GNU Octave Manual: https://docs.octave.org/latest/
 - MATLAB Onramp (free course): https://www.mathworks.com/learn/tutorials/matlab-onramp.html
 - File Exchange: https://www.mathworks.com/matlabcentral/fileexchange/
-
-

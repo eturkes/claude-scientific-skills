@@ -157,5 +157,3 @@ resp = requests.get(f"{BASE_URL}/v1/accounting/dts/deposits_withdrawals_operatin
 - **[datasets-securities.md](references/datasets-securities.md)** — Treasury auctions, savings bonds, SLGS, buybacks
 - **[response-format.md](references/response-format.md)** — Response objects, error handling, pagination, response codes
 - **[examples.md](references/examples.md)** — Python, R, and pandas code examples for common use cases
-
-

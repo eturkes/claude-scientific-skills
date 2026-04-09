@@ -283,5 +283,3 @@ Open Notebook uses a modern stack:
 - For free local inference without API costs, use Ollama
 - The `OPEN_NOTEBOOK_ENCRYPTION_KEY` must be set before first launch and kept consistent across restarts
 - All data is stored locally in Docker volumes for complete data sovereignty
-
-
