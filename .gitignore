@@ -15,5 +15,8 @@ research/
 
 .agents/
 AGENTS.md
+.serena/
 
 skills-lock.json
+
+uv.lock
